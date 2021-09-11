@@ -1,1 +1,2 @@
-# snake-game
+# Snake game: a Snake-Athon project
+
